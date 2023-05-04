@@ -1,0 +1,438 @@
+[
+    {
+        "id": 1,
+        "name": "Afsan Ahmed",
+        "picture": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "experience": "10 years",
+        "recipes": "30",
+        "likes": "100",
+        "bio": "Afsan Ahmed is a Bangladeshi chef and food blogger based in Dhaka. She started her culinary journey at the age of 16 and since then has worked in various restaurants and cafes in Dhaka. Sonia is passionate about exploring the traditional flavors of Bangladeshi cuisine and giving them a modern twist. She is known for her fusion recipes and is a regular contributor to various food magazines and websites.",
+        "recipesList": [
+            {
+                "name": "Chicken Tikka Masala",
+                "image":"https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80",
+                "ingredients": [
+                    "Chicken breast",
+                    "Yogurt",
+                    "Ginger",
+                    "Garlic",
+                    "Tomatoes"
+                ],
+                "method": [
+                    "Marinate the chicken in yogurt and spices.",
+                    "Grill the chicken.\n3. Make a sauce with tomatoes, onions, and spices.",
+                    "Add the chicken to the sauce and cook for a few minutes.",
+                    " Serve with rice or naan."
+                ],
+                "rating": "4.5",
+                "favorite": false
+            },
+            {
+                "name": "Beef Bhuna",
+                "image":"https://images.unsplash.com/photo-1612871689353-cccf581d667b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Tomatoes"
+                ],
+                "method": [
+                    "Heat oil in a pan.",
+                    "Fry onions and garlic until golden brown.",
+                    "Add beef and fry until brown.",
+                    "Add spices and tomatoes.",
+                    "Cook for 30 minutes until the beef is tender.",
+                    "Serve with rice or roti."
+                ],
+                "rating": "4.0",
+                "favorite": true
+            },
+            {
+                "name": "Fish Curry",
+                "image":"https://images.unsplash.com/photo-1552058091-1a614f470415?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1234&q=80",
+                "ingredients": [
+                    "Fish",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Tomatoes"
+                ],
+                "method": [
+                    "1. Fry fish in oil.",
+                    "Fry onions and garlic until golden brown.",
+                    "Add ginger, spices, and tomatoes.\n4. Cook for 10-15 minutes.",
+                    "Add fish to the sauce and cook for another 5-10 minutes.",
+                    "Serve with rice or naan."
+                ],
+                "rating": "4.2",
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=1060&t=st=1683167776~exp=1683168376~hmac=618e343449c5afbf87e26aaf2de497bcdf50e8e99182aa682fa37b04878224d0",
+        "name": "Rubel Ahmed",
+        "experience": "12 years",
+        "recipes": "58",
+        "likes": "1.2K",
+        "bio": "Rubel Ahmed is an experienced chef with a passion for creating delicious and healthy meals. He has worked in some of the top restaurants around the world and has won numerous awards for his culinary skills.",
+        "recipesList": [
+            {
+                "name": "Spicy Chicken Kabab",
+                "image":"https://images.unsplash.com/photo-1626074353765-517a681e40be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "Boneless Chicken (500g)",
+                    "Onion (1)",
+                    "Green Chili (5)",
+                    "Garlic Paste (1 tbsp)",
+                    "Ginger Paste (1 tbsp)"
+                ],
+                "method": [
+                    "Cut the chicken into small pieces",
+                    "Marinate the chicken with garlic paste, ginger paste, and salt for 30 minutes",
+                    "Chop the onion and green chili",
+                    "Put the marinated chicken, onion, and green chili on skewers",
+                    "Grill the skewers in an oven for 20-25 minutes, turning them occasionally",
+                    "Serve hot with mint chutney"
+                ],
+                "rating": "4.5",
+                "favourite": false
+            },
+            {
+                "name": "Beef Bhuna Khichuri",
+                "image":"https://images.unsplash.com/photo-1630409351217-bc4fa6422075?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1238&q=80",
+                "ingredients": [
+                    "Beef (500g)",
+                    "Rice (1 cup)",
+                    "Moong Dal (1/2 cup)",
+                    "Onion (1)",
+                    "Ginger Paste (1 tbsp)"
+                ],
+                "method": [
+                    "Wash the rice and dal separately and keep aside",
+                    "Cut the beef into small pieces and marinate with salt and ginger paste for 30 minutes",
+                    "Chop the onion",
+                    "Heat oil in a pressure cooker and fry the onion till golden brown",
+                    "Add the marinated beef and fry for 5 minutes",
+                    "Add the rice and dal and fry for 2-3 minutes",
+                    "Add enough water and pressure cook for 10-15 minutes",
+                    "Serve hot with salad"
+                ],
+                "rating": "4.2",
+                "favourite": false
+            },
+            {
+                "name": "Chicken Shawarma",
+                "image":"https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "Boneless Chicken (500g)",
+                    "Onion (1)",
+                    "Garlic (5 cloves)",
+                    "Yogurt (1/2 cup)",
+                    "Lemon Juice (2 tbsp)"
+                ],
+                "method": [
+                    "Cut the chicken into small pieces and keep aside",
+                    "Chop the onion and garlic",
+                    "In a bowl, mix yogurt, lemon juice, garlic, and salt",
+                    "Add the chicken to the mixture and marinate for 30 minutes",
+                    "Heat oil in a pan and fry the chicken till cooked",
+                    "Serve hot with pita bread and salad"
+                ],
+                "rating": "4.6",
+                "favourite": false
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name": "Jannatul Naim",
+        "experience": "10 years",
+        "recipes": 53,
+        "likes": 2300,
+        "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=1060&t=st=1683167878~exp=1683168478~hmac=92c42beedb1f6513a70cfd318974a9d6d4f9aacc4c5bf6e33753d7fbaae49a98",
+        "bio": "Jannatul Naim is a talented chef with a passion for creating authentic Latin American dishes. With over 12 years of experience in the kitchen, Maria has developed a unique approach to cooking that emphasizes fresh ingredients and traditional techniques.",
+        "recipesList": [
+            {
+                "name": "Beef Boti Kabab",
+                "image":"https://images.unsplash.com/photo-1659275799237-cbc057d97e7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "Beef",
+                    "Yogurt",
+                    "Ginger Garlic Paste",
+                    "Red Chilli Powder",
+                    "Coriander Powder"
+                ],
+                "method": [
+                    "1. Mix all the ingredients except beef in a bowl.",
+                    "Cut beef into small cubes and add it to the mixture.",
+                    "Leave to marinate for at least 2 hours.",
+                    "Skewer the beef cubes and cook on a hot grill for 10-15 minutes, turning occasionally.",
+                    "Serve hot with mint chutney."
+                ],
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Aloo Tikki",
+                "image":"https://images.unsplash.com/photo-1599307767316-776533bb941c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1150&q=80",
+                "ingredients": [
+                    "Potatoes",
+                    "Green Chillies",
+                    "Coriander Leaves",
+                    "Cumin Powder",
+                    "Breadcrumbs"
+                ],
+                "method": [
+                    "Boil the potatoes, peel and mash them.",
+                    "Add chopped green chillies, coriander leaves, cumin powder, and salt to the mashed potatoes and mix well.",
+                    "Shape the mixture into small patties. 4. Coat each patty with breadcrumbs.",
+                    "Heat oil in a pan and shallow fry the patties until golden brown on both sides.",
+                    "Serve hot with mint chutney."
+                ],
+                "rating": 4.2,
+                "favorite": true
+            },
+            {
+                "name": "Chicken Shwarma",
+                "image":"https://images.unsplash.com/photo-1600555379765-f82335a7b1b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "Chicken Breast",
+                    "Yogurt",
+                    "Lemon Juice",
+                    "Garlic",
+                    "Cumin Powder"
+                ],
+                "method": [
+                    "Cut chicken breast into thin strips.",
+                    "Mix yogurt, lemon juice, garlic, cumin powder, and salt in a bowl.",
+                    "Add chicken strips to the mixture and marinate for at least 2 hours.",
+                    "Preheat the oven to 350°F (175°C).",
+                    "Thread chicken strips onto skewers and place on a baking sheet.",
+                    "Bake for 15-20 minutes until fully cooked.",
+                    "Serve hot with pita bread, hummus, and tahini sauce."
+                ],
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id":4,
+        "picture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Mr. Habib",
+        "experience": "15 years",
+        "recipes": "73",
+        "likes": "256",
+        "bio": "Mr. Habib is a talented chef with a passion for creating delicious and healthy meals that are easy to make at home. With over 6 years of experience in the culinary world, Riya has developed a unique approach to cooking that emphasizes fresh ingredients and simple techniques.",
+        "recipesList": [
+            {
+                "name": "Beef Bhuna",
+                "image":"https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "beef",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "chili"
+                ],
+                "method": [
+                    "Heat oil in a pan and fry onions until golden brown. Add garlic, ginger, and chili and fry for another minute.",
+                    "Add beef and fry until brown.",
+                    "Add water and cook until beef is tender.",
+                    "Serve hot with rice."
+                ],
+                "rating": "4.5",
+                "favorite": false
+            },
+            {
+                "name": "Chicken Tikka",
+                "image":"https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "chicken",
+                    "yogurt",
+                    "lemon juice",
+                    "spices",
+                    "oil"
+                ],
+                "method": [
+                    "Mix chicken with yogurt, lemon juice, and spices.",
+                    "Marinate for at least 1 hour.",
+                    "Grill or fry until cooked.",
+                    "Serve hot with salad and naan bread."
+                ],
+                "rating": "4.2",
+                "favorite": false
+            },
+            {
+                "name": "Fish Fry",
+                "image":"https://images.unsplash.com/photo-1682622110397-37f6e928f890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "fish",
+                    "turmeric",
+                    "salt",
+                    "chili powder",
+                    "oil"
+                ],
+                "method": [
+                    "Mix fish with turmeric, salt, and chili powder.",
+                    "Marinate for 30 minutes.",
+                    "Heat oil in a pan and fry fish until crispy.",
+                    "Serve hot with lemon wedges and ketchup."
+                ],
+                "rating": "4.8",
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id":5,
+        "picture": "https://images.unsplash.com/photo-1575443163387-1ee3ce66a683?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+        "name": "Chef Mannaf",
+        "experience": "10+ years",
+        "recipes": 23,
+        "likes": 450,
+        "bio": "Chef Mannaf is a master chef with a love for all things spicy. With 8 years of experience in the kitchen, Alex has perfected the art of creating bold and flavorful dishes that are sure to satisfy any palate.",
+        "recipesList": [
+            {
+                "name": "Chili Chicken",
+                "image":"https://images.unsplash.com/photo-1606728035253-49e8a23146de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "Boneless Chicken",
+                    "Green Chillies",
+                    "Onion",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "method": [
+                    "Marinate chicken with ginger, garlic, and salt for 30 minutes.",
+                    "Fry chicken in hot oil till it becomes crispy.",
+                    "In another pan, saute onion and green chillies until soft.",
+                    "Add fried chicken to the onion and chilli mixture.",
+                    "Add soy sauce, vinegar, and salt to taste.",
+                    "Cook for another 5 minutes and serve hot."
+                ],
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Fuchka",
+                "image":"https://images.unsplash.com/photo-1626202372726-a643f438c997?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2008&q=80",
+                "ingredients": [
+                    "Chickpeas",
+                    "Potatoes",
+                    "Tamarind",
+                    "Green Chillies",
+                    "Onion"
+                ],
+                "method": [
+                    "Boil chickpeas and potatoes separately.",
+                    "Mash the potatoes and mix them with spices.",
+                    "Fill the potato mixture into the hollow fuchka shells.",
+                    "Add boiled chickpeas, onion, and green chillies to the filled fuchka shells.",
+                    "Serve with tamarind water."
+                ],
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "name": "Beef Bhuna",
+                "image":"https://img.freepik.com/free-photo/lamb-steak-pieces-with-sauces-grilled-pepper-fresh-salad-wooden-board_140725-10580.jpg?w=1060&t=st=1683171407~exp=1683172007~hmac=f83393a732f3cea87b0baf4cca9c898e3149d49f8979045a1ff437a35c0d2e96",
+                "ingredients": [
+                    "Beef",
+                    "Onion",
+                    "Garlic",
+                    "Ginger",
+                    "Tomato"
+                ],
+                "method": [
+                    "Cut the beef into small pieces and marinate with spices for 30 minutes.",
+                    "Fry the beef in hot oil until it becomes brown.",
+                    "Remove the beef from the pan and add onion, garlic, and ginger.",
+                    "Saute the onion mixture until it becomes soft.",
+                    "Add tomato and cook until it becomes soft.",
+                    "Add the beef back into the pan and add water.",
+                    "Cook for another 10 minutes and serve hot."
+                ],
+                "rating": 4.2,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name": "Shahin Ahmed",
+        "expericence": 10,
+        "recipies": 28,
+        "likes": 120,
+        "picture": "https://img.freepik.com/free-photo/front-view-male-chef-holding-dish_23-2148763124.jpg?w=1060&t=st=1683168086~exp=1683168686~hmac=66f17f29647c4bdb83d4001e65458fed530d23c7e09e1d27ac16cee737c1c909",
+        "bio": "Shahin Ahmed is a renowned chef with a passion for creating healthy and delicious meals. With over 10 years of experience in the culinary world, Mona has developed a unique approach to cooking that emphasizes fresh ingredients and bold flavors.",
+        "recipesList": [
+            {
+                "name": "Chana Masala",
+                "image":"https://images.unsplash.com/photo-1634234498505-51b316832b28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+                "ingredients": [
+                    "1 cup chickpeas",
+                    "1 large onion, finely chopped",
+                    "3 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "2 tbsp vegetable oil"
+                ],
+                "method":[
+                    "Soak chickpeas in water overnight or for at least 6 hours. Boil chickpeas with some salt and turmeric powder until soft.",
+                    "Heat oil in a pan and fry onions until brown. Add garlic and ginger and fry for a minute",
+                    "Add tomato puree, cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Cook for 5-7 minutes.",
+                    "Add boiled chickpeas and cook for another 5 minutes.",
+                    " Serve hot with rice or roti."
+                ],
+                "rating": 4.5,
+                "favourite": false
+            },
+            {
+                "name": "Beef Bhuna",
+                "image":"https://images.unsplash.com/photo-1533606117812-0783e8e690f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+                "ingredients": [
+                    "500g beef, cut into small pieces",
+                    "2 large onions, finely chopped",
+                    "3 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "2 tbsp vegetable oil"
+                ],
+                "method": [
+                    "Heat oil in a pan and fry onions until brown. Add garlic and ginger and fry for a minute.",
+                    "Add beef and fry until brown.",
+                    "Add tomato puree, cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Cook for 20-25 minutes.",
+                    "Add some water and cook until beef is tender and the gravy is thick.",
+                    "Serve hot with rice or roti."
+                ],
+                "rating": 4.2,
+                "favourite": true
+            },
+            {
+                "name": "Fuchka",
+                "image":"https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80",
+                "ingredients": [
+                    "1 cup semolina",
+                    "1/2 cup all-purpose flour",
+                    "1/2 tsp baking soda",
+                    "1/2 tsp salt",
+                    "1/2 cup water"
+                ],
+                "method": [
+                    "1. Mix semolina, flour, baking soda, and salt in a bowl.",
+                    "Add water and knead the dough for 5-7 minutes.",
+                    "Cover the dough and let it rest for 20-25 minutes.",
+                    "Roll out the dough and cut small circles with a cookie cutter or a glass.",
+                    "Fry the circles until golden brown.",
+                    "Mix boiled chickpeas, chopped onion, green chili, coriander leaves, and tamarind water to make the filling.",
+                    "Make a small hole in the fried circles and stuff the filling.",
+                    "Serve immediately."
+                ],
+                "rating": 4.9,
+                "favourite": false
+            }
+        ]
+    }
+]
