@@ -6,6 +6,9 @@ app.use(cors());
 const chefs = require('./data/chefs.json')
 app.get('/', (req, res) => { res.send("Hello from heavens kitchen!") })
 
+app.get('/chefs', (req, res) => { res.send(chefs) })
+
+
 app.listen(port, () => {
   console.log(`server running on port ${port}`)
 })
