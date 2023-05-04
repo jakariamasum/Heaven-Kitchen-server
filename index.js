@@ -8,7 +8,12 @@ app.get('/', (req, res) => { res.send("Hello from heavens kitchen!") })
 
 app.get('/chefs', (req, res) => { res.send(chefs) })
 
-
+app.get('/chefs/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chefs.find(n => n.id == id);
+  console.log(id, selectedChef)
+  res.send(selectedChef)
+})
 app.listen(port, () => {
   console.log(`server running on port ${port}`)
 })
